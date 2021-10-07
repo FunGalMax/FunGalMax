@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maxwspencer
+- 👀 I’m interested in evolution and ecology - and learning all of the skills involved. 
+- 🌱 I’m currently learning R for statistical analysis and visualization.
+- 💞️ I’m looking to collaborate on anything related to wine, microbes, or forests! 
+- 📫 How to reach me mws@uoregon.edu
